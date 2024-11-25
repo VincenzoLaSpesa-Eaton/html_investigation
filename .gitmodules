@@ -1,3 +1,8 @@
 [submodule "eaton-automation-litehtml/litehtml"]
 	path = eaton-automation-litehtml/litehtml
 	url = https://github.com/litehtml/litehtml
+
+[submodule "eaton-automation-RmlUi/RmlUi"]
+	path = eaton-automation-RmlUi/RmlUi
+	url = https://github.com/mikke89/RmlUi
+
