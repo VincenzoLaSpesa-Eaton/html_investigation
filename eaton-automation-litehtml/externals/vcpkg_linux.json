@@ -1,0 +1,11 @@
+{
+	"dependencies": [
+		{
+			"name": "sdl2",
+			"features": ["x11"]
+		},
+		"pango",
+		"cairo",
+		"gtkmm"
+	]
+}

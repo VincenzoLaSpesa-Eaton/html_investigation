@@ -1,0 +1,6 @@
+BasedOnStyle: Microsoft
+ColumnLimit:     0
+PointerAlignment: Right
+PointerBindsToType: false
+IndentWidth: 4
+SortIncludes: false # this is VERY important

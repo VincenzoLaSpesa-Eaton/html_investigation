@@ -1,0 +1,3 @@
+[submodule "eaton-automation-litehtml/litehtml"]
+	path = eaton-automation-litehtml/litehtml
+	url = https://github.com/litehtml/litehtml
